@@ -107,6 +107,9 @@ main {
 }
 
 @media (max-width: 767px) {
+  html {
+    font-size: 8px;
+  }
   main {
     text-align: center;
   }
