@@ -1,5 +1,5 @@
 html {
-  font-size: 8px;
+  font-size: 10px;
 }
 
 * {
@@ -94,6 +94,9 @@ main#home h1 {
 }
 
 @media (max-width: 767px) {
+  html {
+    font-size: 8px;
+  }
   main {
     text-align: center;
   }
