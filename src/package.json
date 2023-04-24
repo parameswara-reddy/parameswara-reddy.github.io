@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/parameswara-reddy/parameswara-reddy.github.io#readme",
   "dependencies": {
-    "node-sass": "^4.11.0"
+    "node-sass": "^8.0.0"
   }
 }
